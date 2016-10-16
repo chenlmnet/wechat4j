@@ -27,9 +27,6 @@ import org.sword.wechat4j.response.VideoResponse;
 import org.sword.wechat4j.response.VoiceResponse;
 import org.sword.wechat4j.response.WechatResponse;
 
-
-
-
 /**
  * wechat支持入口
  * 抽象方法中，on开头的是msgtype的事件，无on的是event事件
